@@ -1,4 +1,4 @@
-## Pablo Verly 
+## Pablo Verly <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 @simbiosecode 
 
 ![pabloverly GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true)

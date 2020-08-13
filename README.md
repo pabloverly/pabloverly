@@ -1,7 +1,7 @@
 ## Pablo Verly 
 @simbiosecode 
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true)
+![pabloverly GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true)
 
 
 - Sou Pablo, Analista de Sistemas a mais de 10 anos. Full Stack Developer e entusiasta de open source do Brasil.

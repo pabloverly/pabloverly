@@ -8,14 +8,13 @@
 
 Principais Atividades
 
-* Suporte ERP
 * Sql/PLSQL (ORACLE, MSSQL, MYSQL/MARIADB, FIREBIRD, NoSQL ....... )
 * Javascript/Typescript
   * React
   * ReactNative
-  * C# (.net)
-* Suporte Sistemas
-  * ERP - Planejamento de Recurso da empresa
+* C# (.net)
+
+ERP - Planejamento de Recurso da empresa
  * EMR -  Registro Medico Eletronico
  * HIS - Sistema de Informação Hospitalar
  * LIS - Sistema de Informação Laboratorial

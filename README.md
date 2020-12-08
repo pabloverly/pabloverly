@@ -26,7 +26,7 @@ ERP - Planejamento de Recurso da empresa
 ### Simbiosecode
 https://github.com/SimbioseCode
 
-http://www.simbiosecode.tech:8081/
+http://www.simbiosecode.tech/
 
 
 ![](https://avatars2.githubusercontent.com/u/36868154?s=200&v=4)

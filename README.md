@@ -39,5 +39,8 @@ ERP - Planejamento de Recurso da empresa
 https://github.com/SimbioseCode
 
 http://simbiosecode.store/
+
+  
+<img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" width="'100%" height="100%">
   
 ![Snake animation](https://github.com/pabloverly/pabloverly/blob/output/github-contribution-grid-snake.svg)

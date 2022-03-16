@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloverly&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&theme=tokyonight)](https://github.com/pabloverly/github-readme-stats)
+ 
 Sou Pablo, Analista de Sistemas a mais de 10 anos. Full Stack Developer e entusiasta de open source do Brasil.
 
 Principais Atividades

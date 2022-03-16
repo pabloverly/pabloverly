@@ -33,6 +33,20 @@ ERP - Planejamento de Recurso da empresa
 **Skills:
  - ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) - [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) - [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)
  
+  <div style="display: inline_block"><br>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
+  <div>
+<br>
+
 ### Simbiosecode
 https://github.com/SimbioseCode
 

@@ -40,8 +40,4 @@ https://github.com/SimbioseCode
 
 http://simbiosecode.store/
   
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-
-  
-
+![Snake animation](https://github.com/pabloverly/pabloverly/blob/output/github-contribution-grid-snake.svg)

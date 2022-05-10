@@ -12,6 +12,9 @@
  
 Sou Pablo, Analista de Sistemas a mais de 10 anos. Full Stack Developer e entusiasta de open source do Brasil.
 
+  
+Sou único, genial e dual. Aceitar essa dualidade é o que me faz ser pleno "quanto mais eu me conheço mais eu potencializo e me curo".
+  
 Principais Atividades
 
 * Sql/PLSQL (ORACLE, MSSQL, MYSQL/MARIADB, FIREBIRD, NoSQL ....... )

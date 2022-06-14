@@ -1,5 +1,4 @@
 ## Pablo Verly 
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="24px"><img src="https://avatars2.githubusercontent.com/u/36868154" width="24px">
 
 <a href="https://github.com/simbiosecode-tech">@simbiosecode </a>
 

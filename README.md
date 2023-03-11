@@ -12,7 +12,7 @@
 
 Sou Pablo, Analista de Sistemas a mais de 10 anos. Full Stack Developer e entusiasta de open source do Brasil.
 
-## COMPETÊNCIAS
+## COMPETÊNCIAS(*skills*)
 
 <p align="lefth">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png" height="40">     <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40"> <img src="https://www.resultatec.com.br/wp-content/uploads/2018/06/postgresql-logo.png" height="40"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mariadb-seal-browntext.svg/2560px-Mariadb-seal-browntext.svg.png" height="40">   <img src="https://digitalrecovery.com/wp-content/webpc-passthru.php?src=https://digitalrecovery.com/wp-content/uploads/2023/01/Firebird.png&nocache=1" height="40">
@@ -54,21 +54,8 @@ Geracesso
 • Desenvolvimento de API e consumo de endpoints.
 • Gestão de acesso ao banco
 
-**Skills:
-  - [![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![Mssql](https://img.shields.io/badge/-Mssql-black?style=flat-square&logo=Mssql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - ![Nodejs](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) 
-  - ![Reactjs](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)  
-  -  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
-  -  ![Typescript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Typescript) 
-  - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
-  - [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)
-  - [![Bootstrap]( https://img.shields.io/badge/-mui-black?style=flat-square&logo=mui&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)
-  - [![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
+
+  - [![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - [![Mssql](https://img.shields.io/badge/-Mssql-black?style=flat-square&logo=Mssql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - [![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - ![Nodejs](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)   - ![Reactjs](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)    -  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)   -  ![Typescript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Typescript)   - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)   - [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)  - [![Bootstrap]( https://img.shields.io/badge/-mui-black?style=flat-square&logo=mui&link=https://github.com/pabloverly/)](https://github.com/pabloverly/)  - [![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker&link=https://github.com/pabloverly/)](https://github.com/pabloverly/) 
 
 ### Simbiosecode
 https://github.com/SimbioseCode

@@ -7,7 +7,7 @@
 
   <div align="center">
   <a href="https://github.com/pabloverly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
 
@@ -65,11 +65,11 @@ Geracesso
     <a href="https://www.instagram.com/p43l0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:pablopierre.pv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/p43lo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	   <a href="https://www.simbiosecode.com/" target="_blank"><img src=" https://img.shields.io/badge/SIMBIOSE-CODE-purple" target="_blank"></a> 
-      <a href="https://play.google.com/store/apps/developer?id=SimbioseCode/" target="_blank"><img src=" https://img.shields.io/badge/GOOGLE-PLAY-VERDE" target="_blank"></a>
+
   </div>
   
-
+	   <a href="https://www.simbiosecode.com/" target="_blank"><img src=" https://img.shields.io/badge/SIMBIOSE-CODE-purple" target="_blank"></a> 
+      <a href="https://play.google.com/store/apps/developer?id=SimbioseCode/" target="_blank"><img src=" https://img.shields.io/badge/GOOGLE-PLAY-VERDE" target="_blank"></a>
  
 <!-- <img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" width="'100%" height="100%"> -->
   

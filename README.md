@@ -28,10 +28,7 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
    
  <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" height="40"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IwFcphyV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png" height="40">   
  
- <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" height="40">  
-  <img src="https://ucompares.com/wp-content/uploads/2021/04/Zoho-Projects.jpg" height="40">
-  <img src="https://www.zohowebstatic.com/sites/zweb/images/ogimage/sprints-logo.png" height="40">
-   <img src="https://logosmarcas.net/wp-content/uploads/2020/11/WordPress-Logo.png" height="40">     <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40">
+ <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" height="40">   <img src="https://ucompares.com/wp-content/uploads/2021/04/Zoho-Projects.jpg" height="40">  <img src="https://www.zohowebstatic.com/sites/zweb/images/ogimage/sprints-logo.png" height="40">  <img src="https://logosmarcas.net/wp-content/uploads/2020/11/WordPress-Logo.png" height="40">     <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40">
 
 
  

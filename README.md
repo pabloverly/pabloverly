@@ -46,23 +46,34 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
 
 ## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
  </br>
+ 
 "Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
  </br>
+ 
 ### Conhecimentos em:
+ </br>
+ 
 - Linguagens de Programação e Framewoks: C#, .NET , PL-Sql, Javascript, Typscript, Nodejs, JavaScript, Reactjs, ReactNative, Python, Markdown.
  </br>
+ 
 - Servidores Web: Nginx, IIS, Apache TOMCAT.
  </br>
+ 
 - Devops: Jenkins, Gitlab CI/CD, Docker, SonaQube
  </br>
+ 
 - Softwares e Ferramentas de Desenvolvimento: Visual Studio Code, Visual Studio, SQL Server Management Studio (SSMS), Dbeaver, PowerBI Desktop, Postman, Insomnia, Android Studio, Wordpress, Zoho Projects, Zoho Sprints, Azure Devops, Trello, Limaxito
  </br>
+ 
 - Banco de Dados: ORACLE, SQL Server, MYSQL, MariaDB, Firebird, Progress, NoSql.
  </br>
+ 
 - Claud Plataform - GCP, BigQuery, Azure 
  </br>
+ 
 - Análise de Sistemas: Projeto de Sistemas, Desenvolvimento de Software, Testes e Depuração, Implementação e Integração, Documentação
  </br>
+ 
 - Sistemas Operacionais: Windows e Linux.
 
 

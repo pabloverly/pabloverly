@@ -83,7 +83,7 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
     <a href="https://www.instagram.com/p43l0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "http://simbiosecode.com.br"><img src="https://img.shields.io/badge/SIMBIOSE-CODE-gren?style=for-the-badge&logo=page&logoColor=red"></a>
 	    <a href = "https://play.google.com/store/apps/developer?id=SimbioseCode"><img src="https://img.shields.io/badge/GOOGLE-PLAY-red?style=for-the-badge&logo=page&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/p43lo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/pabloverly/pabloverly/blob/master/github-contribution-grid-snake.gif"></a>
 
   </div>
 

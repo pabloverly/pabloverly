@@ -1,9 +1,8 @@
 # Pablo Verly 
 ## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
  
-[](http://simbiosecode.com.br/)
-</br>
-[](https://pabloverly.github.io/)
+* [](http://simbiosecode.com.br/)
+* [](https://pabloverly.github.io/)
 </br>
 <a href="https://github.com/SimbioseCode">@simbiosecode </a>
 <a href="https://github.com/simbiosecode-tech">@simbiosecode-tech </a>

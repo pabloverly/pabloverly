@@ -17,9 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
 
-
-Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Developer e entusiasta de open source do Brasil.
-
+ </br> 
+"Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
+ </br>
 
 <br>
 
@@ -54,9 +54,7 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
 
 </br>
 ## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
- </br> 
-"Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
- </br>
+
  
 ### Conhecimentos em:
  </br>

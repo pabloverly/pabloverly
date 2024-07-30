@@ -61,6 +61,9 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
 - Devops: Jenkins, Gitlab CI/CD, Docker, SonaQube
  </br>
  
+- Menssageria: RabbitMQ
+ </br>
+
 - Softwares e Ferramentas de Desenvolvimento: Visual Studio Code, Visual Studio, SQL Server Management Studio (SSMS), Dbeaver, PowerBI Desktop, Postman, Insomnia, Android Studio, Wordpress, Zoho Projects, Zoho Sprints, Azure Devops, Trello, Limaxito
  </br>
  

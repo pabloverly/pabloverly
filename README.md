@@ -1,4 +1,4 @@
-## Pablo Verly 
+## Pablo Verly ## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
  
 [](http://simbiosecode.com.br/)
 [](https://pabloverly.github.io/)
@@ -18,7 +18,7 @@
 </div>  
 
  </br> 
-"Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
+ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
  </br>
 
 <br>
@@ -45,18 +45,10 @@
 <img src="https://ucompares.com/wp-content/uploads/2021/04/Zoho-Projects.jpg" height="40">  
 <img src="https://www.zohowebstatic.com/sites/zweb/images/ogimage/sprints-logo.png" height="40">  
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/WordPress-Logo.png" height="40">     
-<img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40">
-
-
- 
+<img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40"> 
  
 </p>
 
-</br>
-## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
-
- 
-### Conhecimentos em:
  </br>
  
 - Linguagens de Programação e Framewoks: C#, .NET , PL-Sql, Javascript, Typscript, Nodejs, JavaScript, Reactjs, ReactNative, Python, Markdown.

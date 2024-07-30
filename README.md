@@ -46,12 +46,13 @@
 <img src="https://www.zohowebstatic.com/sites/zweb/images/ogimage/sprints-logo.png" height="40">  
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/WordPress-Logo.png" height="40">     
 <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40"> 
+<img src="https://israellucania.com.br/wp-content/uploads/2020/10/azure_devops-1.png" height="40"> 
  
 </p>
 
  </br>
  
-- Linguagens de Programação e Framewoks: C#, .NET , PL-Sql, Javascript, Typscript, Nodejs, JavaScript, Reactjs, ReactNative, Python, Markdown.
+- Linguagens de Programação, Marcação e Framewoks: C#, .NET , PL-Sql, Javascript, Typscript, Nodejs, JavaScript, Reactjs, ReactNative, Python, Markdown.
  </br>
  
 - Servidores Web: Nginx, IIS, Apache TOMCAT.

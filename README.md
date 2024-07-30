@@ -7,8 +7,6 @@
 
 [](https://pabloverly.github.io/)
 
-</br>
-
 <a href="https://github.com/SimbioseCode">@simbiosecode </a>
 
 </br>

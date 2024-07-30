@@ -106,6 +106,7 @@ Este aplicativo se inspira na popular ferramenta NVM (Node Version Manager).
 
 <a href="https://github.com/NodeVersionControl/nvc_install">NVC (Node Version Control)</a>
 
+</br></br></br></br>
 
 <h1 align="center">
     <img src="github-contribution-grid-snake.gif">

@@ -27,14 +27,15 @@ Sou Pablo, Analista Desenvolvedor de Sistemas a mais de 16 anos. Full Stack Deve
 <p align="lefth">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png" height="40">     
 <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40"> 
-<img src="https://www.resultatec.com.br/wp-content/uploads/2018/06/postgresql-logo.png" height="40">
+<img src="https://www.resultatec.com.br/wp-content/uploads/2018/06/postgresql-logo.pn](https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mariadb-seal-browntext.svg/2560px-Mariadb-seal-browntext.svg.png" height="40">   
 <img src="https://digitalrecovery.com/wp-content/webpc-passthru.php?src=https://digitalrecovery.com/wp-content/uploads/2023/01/Firebird.png&nocache=1" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40">      
 <img src="https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png" height="40">    
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="40">   
-<img src="https://miro.medium.com/v2/resize:fit:480/1*VKY-Ldkt-iHobItql7G_5w.png" height="40">   
+<img src="https://miro.medium.com/v2/resize:fit:480/1*VKY-Ldkt-iHobItql7G_5w.png" height="40">
+<img src="https://miro.medium.com/v2/resize:fit:480/1*VKY-Ldkt-iHobItql7G_5w.png](https://cdn.icon-icons.com/icons2/2699/PNG/512/rabbitmq_logo_icon_170812.png" height="40">	
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1200px-Axios_%28computer_library%29_logo.svg.png" height="20"> 
 <img src="https://cdn.fs.teachablecdn.com/f0o2YGKTFONup7nJc8aQ" height="40">
 <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" height="40"> 

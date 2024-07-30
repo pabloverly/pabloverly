@@ -9,18 +9,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>  
-
-## Organizations
-<a href="https://github.com/SimbioseCode">@simbiosecode </a>
-
-</br>
-
-<a href="https://github.com/simbiosecode-tech">@simbiosecode-tech </a>
-
+	  
  </br> 
  Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
  </br>
 
+ <hr>
+
+## Organizations
+<a href="https://github.com/SimbioseCode">@simbiosecode </a>
+</br>
+
+<a href="https://github.com/simbiosecode-tech">@simbiosecode-tech </a>
+</br>
+
+<a href="https://github.com/NodeVersionControl">@NodeVersionControl </a>
 <br>
 
 <hr>

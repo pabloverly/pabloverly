@@ -15,6 +15,7 @@
  </br>
  
 <hr>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pabloverly&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## SKILLS
 

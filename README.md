@@ -92,12 +92,7 @@ Este aplicativo se inspira na popular ferramenta NVM (Node Version Manager).
 
 <hr>
 
-  <div align="center">
-  <a href="https://github.com/pabloverly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
-
+  
 
 ## Organizations
 <a href="https://github.com/SimbioseCode">@simbiosecode </a>
@@ -112,6 +107,11 @@ Este aplicativo se inspira na popular ferramenta NVM (Node Version Manager).
 <hr>
 </br></br>
 
+<div align="center">
+  <a href="https://github.com/pabloverly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>  
 
    
 

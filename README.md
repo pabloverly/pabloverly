@@ -5,12 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pabloverly&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <div align="center">
-  <a href="https://github.com/pabloverly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
-	  
+
  </br> 
  Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
  </br>
@@ -110,7 +105,13 @@ Este aplicativo se inspira na popular ferramenta NVM (Node Version Manager).
 <hr>
 </br></br>
 
+  <div align="center">
+  <a href="https://github.com/pabloverly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>  
 
+   
 
 <h1 align="center">
     <img src="github-contribution-grid-snake.gif">

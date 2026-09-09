@@ -1,19 +1,10 @@
 # Pablo Verly 
 
-## Dev Full Stack | .NET - C# | JavaScript - TypeScript | Angular - Node.js - React.js | React Native
+## Software Engineer | Tech Lead | Solutions Architect | Full Stack | AI & Automation | n8n | .NET | Cloud | DevOps | Enterprise Integration
 
 <!-- ![pabloverly GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true) -->
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/419b6795-2342-4029-b75a-d3732620e0be" />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pabloverly&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
- </br> 
- Desenvolvedor Full Stack apaixonado por transformar ideias em soluções inovadoras, com experiência sólida em desenvolvimento. Comprometido com a excelência técnica e sempre em busca de desafios que impulsionem crescimento profissional."
- </br>
- 
-
 
 ## SKILLS
 

@@ -1,6 +1,6 @@
-# Pablo Verly 
+## Pablo Verly 
 
-## Software Engineer | Tech Lead | Solutions Architect | Full Stack | AI & Automation | n8n | .NET | Cloud | DevOps | Enterprise Integration
+#### Software Engineer | Tech Lead | Solutions Architect | Full Stack | AI & Automation | n8n | .NET | Cloud | DevOps | Enterprise Integration
 
 <!-- ![pabloverly GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true) -->
 

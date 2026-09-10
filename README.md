@@ -71,18 +71,6 @@ Busco desafios em Software Engineering, Arquitetura, Full Stack, IA Generativa, 
 
 🔗 github.com/SimbioseCode
 
-🌐 simbiosecode.com.br
-
-
- </br>
-
-  <div> 
-    <a href="https://www.instagram.com/p43l0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "http://simbiosecode.com.br"><img src="https://img.shields.io/badge/SIMBIOSE-CODE-gren?style=for-the-badge&logo=page&logoColor=red"></a>
-	    <a href = "https://play.google.com/store/apps/developer?id=SimbioseCode"><img src="https://img.shields.io/badge/GOOGLE-PLAY-red?style=for-the-badge&logo=page&logoColor=white"></a>
-    <a href="https://github.com/pabloverly/pabloverly/blob/master/github-contribution-grid-snake.gif"></a>
-
-  </div>
 
  </br>
 
@@ -112,12 +100,6 @@ Este aplicativo se inspira na popular ferramenta NVM (Node Version Manager).
 
 <hr>
 </br></br>
-
-<div align="center">
-  <a href="https://github.com/pabloverly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloverly&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
 
    
 

@@ -35,31 +35,43 @@
 
  </br>
  
-- Linguagens de Programação, Marcação e Framewoks: C#, .NET , PL-Sql, Javascript, Typscript, Nodejs, JavaScript, Reactjs, ReactNative, Python, Markdown.
- </br>
- 
-- Servidores Web: Nginx, IIS, Apache TOMCAT.
- </br>
- 
-- Devops: Jenkins, Gitlab CI/CD, Docker, SonaQube
- </br>
- 
-- Menssageria: RabbitMQ
- </br>
+Sou Software Engineer com experiência em Engenharia de Software, desenvolvimento Full Stack, arquitetura de soluções, integração de sistemas, automação de processos e Inteligência Artificial aplicada.
 
-- Softwares e Ferramentas de Desenvolvimento: Visual Studio Code, Visual Studio, SQL Server Management Studio (SSMS), Dbeaver, PowerBI Desktop, Postman, Insomnia, Android Studio, Wordpress, Zoho Projects, Zoho Sprints, Azure Devops, Trello, Limaxito
- </br>
- 
-- Banco de Dados: ORACLE, SQL Server, MYSQL, MariaDB, Firebird, Progress, NoSql.
- </br>
- 
-- Claud Plataform - GCP, BigQuery, Azure 
- </br>
- 
-- Análise de Sistemas: Projeto de Sistemas, Desenvolvimento de Software, Testes e Depuração, Implementação e Integração, Documentação
- </br>
- 
-- Sistemas Operacionais: Windows e Linux.
+Atuo na transformação de problemas de negócio em soluções tecnológicas completas, escaláveis e sustentáveis, participando de todo o ciclo: análise, arquitetura, desenvolvimento, integração, automação, implantação e evolução.
+
+Minha experiência combina .NET, APIs, aplicações web, bancos de dados, Cloud, DevOps, BI, automação e IA, permitindo conectar diferentes tecnologias e sistemas para criar soluções eficientes e orientadas a resultados.
+
+🚀 Engenharia de Software & Full Stack
+
+Experiência com C#, .NET, ASP.NET Core, JavaScript, TypeScript, Angular, React, Node.js e Python, atuando no desenvolvimento de aplicações corporativas, APIs REST, integrações, modernização de sistemas, testes, documentação e sustentação.
+
+🤖 IA Generativa & Automação
+
+Tenho forte interesse na aplicação de IA para transformar processos e aumentar produtividade, utilizando Claude/Anthropic, LLMs, n8n, APIs e automação inteligente.
+
+Atuo na criação de workflows capazes de conectar Inteligência Artificial, sistemas corporativos, bancos de dados, APIs e serviços Cloud, transformando processos manuais em fluxos automatizados.
+
+☁️ Cloud, Dados & BI
+
+Experiência com Microsoft Azure, Google Cloud Platform, BigQuery e Power BI, além de SQL Server, Oracle, MySQL, MariaDB, Progress, Firebird e NoSQL.
+
+⚙️ DevOps & Infraestrutura
+
+Experiência com GitLab CI/CD, Jenkins, Azure DevOps, Docker, SonarQube, IIS, Nginx, Apache Tomcat.
+
+🔗 Meu diferencial
+
+Gosto de atuar na interseção entre software, dados, automação e IA, conectando tecnologias e sistemas que normalmente trabalham de forma isolada.
+
+Não vejo tecnologia apenas como desenvolvimento de código. Meu objetivo é simplificar processos, eliminar tarefas repetitivas, integrar informações e criar soluções que gerem valor real para o negócio.
+
+Busco desafios em Software Engineering, Arquitetura, Full Stack, IA Generativa, Automação, n8n, Integração de Sistemas, APIs, Cloud, DevOps, Dados e Transformação Digital.
+
+🔗 github.com/pabloverly
+
+🔗 github.com/SimbioseCode
+
+🌐 simbiosecode.com.br
 
 
  </br>
